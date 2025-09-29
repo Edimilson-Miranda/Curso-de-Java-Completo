@@ -3,6 +3,11 @@ package course.application;
 import java.util.Locale;
 import java.util.Scanner;
 
+/*
+   Problema sem orienatção a objetos, com três variáveis distintas para
+   representar o triângulo.
+   double aX, bX, cX, aY, bY, cY;
+ */
 public class Program {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);

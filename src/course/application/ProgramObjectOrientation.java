@@ -1,10 +1,14 @@
 package course.application;
 
+import course.entities.Triangle;
 import java.util.Locale;
 import java.util.Scanner;
 
-import course.entities.Triangle;
-
+/*
+   O mesmo problema mas agora com orientação a objeto, com classe entities, tendo como atributos
+   a class Triangle. Com três metodos, 
+   denomenado como public double a; public double b; public double c;
+ */
 public class ProgramObjectOrientation {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
