@@ -9,6 +9,12 @@ import java.util.Scanner;
    a class Triangle. Com três metodos, 
    denomenado como public double a; public double b; public double c;
  */
+
+/*
+    Criando um método para melhorar a CLASSE,
+    e delegado a responsabilidade de calcular a área a classe Triangle
+ */
+
 public class ProgramObjectOrientation {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
