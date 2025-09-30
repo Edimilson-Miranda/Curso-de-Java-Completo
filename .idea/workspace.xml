@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b66be4c1-2f33-470a-bbd6-41f04e2ed707" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_programacao_java_udemy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/Bitwise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/application/ProgramObjectOrientation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/conditional/imparPar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/conditional/multiplosUri1044.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/conditional/negativoOuNao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/conditional/operadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/conditional/ternaria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/conditional/uri1037.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/conditional/uri1038.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/conditional/uri1041.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/conditional/uri1046.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/conditional/uri1051.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/entities/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/functions/FunctionFirst.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/functions/FunctionSecond.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/repetitive/enquanto/uri1114.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/repetitive/enquanto/uri1115.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/repetitive/enquanto/uri1134.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/repetitive/para/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/repetitive/para/contagemProgressiva.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/repetitive/para/contagemRegressiva.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/repetitive/para/uri1067.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/repetitive/para/uri1072.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/repetitive/para/uri1079.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/repetitive/para/uri1116.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/repetitive/para/uri1143.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/repetitive/para/uri1153.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/repetitive/para/uri1157.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/sequential/uri1002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/sequential/uri1003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/sequential/uri1007.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/sequential/uri1008.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/sequential/uri1010.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/sequential/uri1012.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/products.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="33RAq38zOk2tDgf5NmUpnUCQYWE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "develop",
+    "kotlin-language-version-configured": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-IU-252.26199.169" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b66be4c1-2f33-470a-bbd6-41f04e2ed707" name="Changes" comment="" />
+      <created>1759269705548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759269705548</updated>
+      <workItem from="1759269715408" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
