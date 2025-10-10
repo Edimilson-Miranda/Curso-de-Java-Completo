@@ -1,6 +1,8 @@
+package application;
+
 import java.util.Locale;
 
-public class products {
+public class Products {
     public static void main(String[] args) {
 
         String product1 = "Computer";
@@ -16,7 +18,7 @@ public class products {
         double measure = 53.234567;
 
 
-        System.out.println("Products: ");
+        System.out.println("application.Products: ");
         System.out.printf("%s, which prince is $ %.2f%n", product1, prince1);
         System.out.printf("%s, which prince is $ %.2f%n", product2, prince2);
 
