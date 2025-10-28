@@ -7,15 +7,14 @@ import java.util.Scanner;
 
 
 /*
-
-    Fazer um programa que realize o cadastro de uma conta, dando opção para que seja ou não iformando o valor
+    Fazer um programa que realize o cadastro de uma conta, dando opção para que seja ou não informando o valor
     de deposito inicial. Em seguida, realizar um depósito e depois um saque, sempre mostrando os dados da conta
     após cada operação.
 
     ---------------------------------------------
                      Account
     ---------------------------------------------
-                 - number:Integer
+                 - number:Int
                  -holder: String
                  -balance: Double
     ----------------------------------------------

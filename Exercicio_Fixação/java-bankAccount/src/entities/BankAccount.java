@@ -1,7 +1,6 @@
 package entities;
 
 public class BankAccount {
-
     private int number;
     private String holder;
     private double balance;
